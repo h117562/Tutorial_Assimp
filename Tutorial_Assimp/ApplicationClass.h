@@ -10,8 +10,6 @@
 #include "TextClass.h"
 #include "TriangleModel.h"
 
-#include <Windows.h>
-
 class ApplicationClass
 {
 public:

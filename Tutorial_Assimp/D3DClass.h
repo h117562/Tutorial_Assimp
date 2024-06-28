@@ -6,11 +6,15 @@
 #pragma comment(lib, "d3d11.lib")
 #pragma comment(lib, "dxgi.lib")
 #pragma comment(lib, "d3dcompiler.lib")
+#pragma comment(lib, "d2d1")
+#pragma comment(lib, "dwrite")
 
+#include <dwrite.h>
+#include <d2d1.h>
 #include <d3d11.h>
 #include <directxmath.h>
-using namespace DirectX;
 
+using namespace DirectX;
 
 class D3DClass
 {

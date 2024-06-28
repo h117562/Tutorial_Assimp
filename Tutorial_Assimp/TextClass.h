@@ -1,11 +1,6 @@
 #ifndef _TEXTCLASS_H_
 #define _TEXTCLASS_H_
 
-#pragma comment(lib, "d2d1")
-#pragma comment(lib, "dwrite")
-
-#include <dwrite.h>
-#include <d2d1.h>
 #include "d3dclass.h"
 
 using namespace std;
